@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 # Hi there 👋
 ## I am an Expert Full Stack Developer who develops Top Quality Software products for clients and is passionate about Computers and Technology.
 
+
 ### Helping You Develop
 - Responsive web-applications using React and it's ecosystem
 - Cross-platform Desktop applications using Electron
@@ -24,4 +25,4 @@ Here are some ideas to get you started:
 - Performant Backend APIs using NodeJS frameworks
 - API integrations
 - Automated-tested code with unit/integration tests
-- High quality, well architectured codebase
+- High quality, well-architectured, well-documented codebase
