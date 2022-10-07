@@ -14,6 +14,14 @@ Here are some ideas to get you started:
 -->
 <img alt="cover image" src="https://user-images.githubusercontent.com/56374584/194465253-a61a7642-dd37-40ac-87bf-142289430efc.png">
 
-# Hi there, Jatin here 👋
-## I am an expert Full Stack Developer who loves to develop high quality software and constantly learn about computers and technology.
+# Hi there 👋
+## I am an Expert Full Stack Developer who develops Top Quality Software products for clients and is passionate about Computers and Technology.
 
+### Helping You Develop
+- Responsive web-applications using React and it's ecosystem
+- Cross-platform Desktop applications using Electron
+- Cross-platform Mobile applications using React Native
+- Performant Backend APIs using NodeJS frameworks
+- API integrations
+- Automated-tested code with unit/integration tests
+- High quality, well architectured codebase
