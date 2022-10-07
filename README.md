@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **JatinBumbra/JatinBumbra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img alt="cover image" src="https://user-images.githubusercontent.com/56374584/194465253-a61a7642-dd37-40ac-87bf-142289430efc.png">
+
+# Hi there, Jatin here 👋
+## I am an expert Full Stack Developer who loves to develop high quality software and constantly learn about computers and technology.
 
