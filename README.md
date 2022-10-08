@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <img alt="cover image" src="https://user-images.githubusercontent.com/56374584/194465253-a61a7642-dd37-40ac-87bf-142289430efc.png">
 
 # Hi there 👋
-## I am an Expert Full Stack Developer who develops Top Quality Software products for clients and is passionate about Computers and Technology.
+## I am Passionate Self-Taught Full Stack Developer who loves to develop Top Quality Software products for clients and is passionate about Computers and Technology.
 
 
 ### Helping You Develop
